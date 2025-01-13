@@ -76,11 +76,27 @@ npm run dev
 
 ## 📫 Kontak
 
-- Email: fariqikhsan@gmail.com
-- LinkedIn: [Fariq Ikhsan Chaniago](#)
-- YouTube: [Fariq Ikhsan](#)
-- Instagram: [@fariqikhsan](#)
+- Email: fariqikhsanchaniago@gmail.com
+- LinkedIn: [Fariq Ikhsan Chaniago](https://www.linkedin.com/in/fariq-ikhsan-chaniago/)
 
 ## 📝 License
 
 Proyek ini dilisensikan di bawah GPL-3.0 License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+
+## 📄 Penjelasan Lisensi GPL-3.0
+
+GNU General Public License v3.0 (GPL-3.0) adalah lisensi perangkat lunak bebas dan sumber terbuka yang memberikan hak kepada pengguna untuk:
+
+- **Kebebasan Penggunaan**: Bebas menggunakan perangkat lunak untuk tujuan apapun
+- **Kebebasan Mempelajari**: Bebas mempelajari dan memodifikasi kode sumber
+- **Kebebasan Distribusi**: Bebas mendistribusikan salinan perangkat lunak
+- **Kebebasan Peningkatan**: Bebas meningkatkan dan merilis perbaikan ke publik
+
+Ketentuan utama:
+1. Setiap turunan harus dirilis dengan lisensi yang sama (GPL-3.0)
+2. Perubahan pada kode sumber harus didokumentasikan
+3. Pemberitahuan hak cipta asli harus dipertahankan
+4. Kode sumber harus tersedia untuk semua pengguna
+
+Lisensi ini menjamin kebebasan pengguna dan memastikan perangkat lunak tetap bebas dan terbuka.
+
