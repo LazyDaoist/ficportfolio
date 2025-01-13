@@ -1,5 +1,34 @@
 # Fariq Ikhsan Chaniago - Portfolio Website
 
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+![License](https://img.shields.io/badge/License-GPL--3.0-green)
+
+> "Membangun Masa Depan Digital dengan Kreativitas dan Inovasi"
+
+Portfolio website modern yang dibangun dengan teknologi terkini, menampilkan perjalanan profesional saya sebagai Computer Instructor dan Web Developer. Website ini dirancang dengan fokus pada:
+
+🎯 **Tujuan Utama**
+- Menampilkan portofolio profesional secara interaktif
+- Memudahkan akses informasi tentang pengalaman dan keahlian
+- Menyediakan CV yang dapat diunduh dalam format PDF
+- Mendemonstrasikan kemampuan teknis dalam pengembangan web modern
+
+💡 **Keunggulan**
+- Performa tinggi dengan Next.js App Router
+- Animasi halus menggunakan Framer Motion
+- Desain responsif dengan Tailwind CSS
+- Pengalaman pengguna yang optimal
+- Kode bersih dan terstruktur
+
+🌟 **Fitur Spesial**
+- Dark theme yang elegan
+- Transisi antar halaman yang mulus
+- Generator CV otomatis
+- Integrasi media sosial
+- SEO friendly
+
 Selamat datang di repository portfolio saya! Website ini menampilkan perjalanan profesional, keahlian, dan pencapaian saya dalam dunia teknologi dan pendidikan.
 
 ## 👨‍💻 Tentang Saya
